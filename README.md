@@ -1,2 +1,2 @@
-# chardev_devicetree
-char dev example with device tree
+字符型设备驱动模板
+使用设备树 
